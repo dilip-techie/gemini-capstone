@@ -22,8 +22,7 @@ The agent:
 
 ##  Notebook
 
-> ✅ View the final notebook on Kaggle:  
-> https://www.kaggle.com/code/amelnozieres/notebooka52303bfad
+> ✅ View the final notebook on Google Colab:  
 
 You can run it directly in Kaggle — no setup required.
 
@@ -32,7 +31,7 @@ You can run it directly in Kaggle — no setup required.
 ## 📚 Articles & Demos
 
 ### Final Version
-- 📖 [How I Built a Smarter GenAI Customer Agent (Substack)](https://decryptai.substack.com/p/how-i-built-a-smarter-genai-customer)
+
 - 🎥 [Demo Video](https://youtu.be/LHebeTt_JtA)
 
 ### Original MVP (V1)
@@ -43,7 +42,7 @@ You can run it directly in Kaggle — no setup required.
 
 ## 🚀 Try It Locally
 
-> 💡 Note: This notebook is designed to run in Kaggle.  
+> 💡 Note: This notebook is designed to run in google colab.  
 > If you want to use Gemini API locally, make sure to:
 - Install `google-generativeai`
 - Set your `GOOGLE_API_KEY` as an environment variable
@@ -53,8 +52,8 @@ You can run it directly in Kaggle — no setup required.
 
 ## 👩‍💻 Author
 
-**Amal Nozieres**  
-→ [Substack](https://decryptai.substack.com)  
+**Dilip Sah**  
+
 → [LinkedIn](https://www.linkedin.com/in/amalnozieres)
 
 ---
